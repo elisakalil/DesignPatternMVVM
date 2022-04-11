@@ -8,5 +8,5 @@ Please, check out his 34 class at YouTube for a better understanding: https://ww
 
 <img src="(https://user-images.githubusercontent.com/60624768/162767340-ab7fffe6-1743-440f-a8d0-d0e26bbd0a72.png" width=30% height=30%>
 
-<img src="https://user-images.githubusercontent.com/60624768/162767343-2d24321e-8c70-4bf2-b18b-156bb114433b.png" width=30% heigth=30%>
+
 
