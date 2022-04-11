@@ -11,7 +11,7 @@ final class NetworkService {
     
     static let shared = NetworkService()
     
-    var user: User?
+    private var user: User?
     
     private init() { }
     
@@ -22,8 +22,12 @@ final class NetworkService {
                 completion(true)
             } else {
                 self?.user = nil
-                completion(true)
+                completion(false)
             }
         }
+    }
+    
+    func getLoggedInUser() -> User {
+        return user!
     }
 }
